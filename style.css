@@ -1,0 +1,40 @@
+form {
+    text-align: center;
+}
+#form {
+    margin: 2%;
+}
+tr:nth-child(even) {
+    background-color: rgb(200, 200, 221);
+  }
+tr:hover {
+    background-color: rgb(170, 170, 170);
+}
+#pretraga {
+    background-color: rgb(71, 71, 105);
+    color: white;
+}
+#pretraga input {
+    float: right;
+}
+h1 {
+    text-align: center;
+}
+.prikaz {
+    text-align: center;
+}
+.prikaz a {
+    color: black;
+}
+#tabela {
+    display: none;
+    margin: auto;
+    width: 90%;
+
+}
+.title {
+    background-color:  rgb(71, 71, 105);
+    height: 150px;
+    padding: 49px;
+    color: whitesmoke;
+}
