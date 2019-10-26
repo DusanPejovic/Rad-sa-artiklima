@@ -1,0 +1,41 @@
+form {
+    text-align: center;
+}
+#form {
+    margin: 2%;
+}
+.not_valid {
+    border-color: red;
+}
+tr:not(:first-child):hover {
+    background-color: rgb(170, 170, 170);
+}
+#pretraga {
+    background-color: rgb(71, 71, 105);
+    color: white;
+}
+#pretraga input {
+    float: right;
+
+}
+h1 {
+    text-align: center;
+}
+.prikaz {
+    text-align: center;
+}
+.prikaz a {
+    color: black;
+}
+#tabela {
+    display: none;
+
+}
+.title {
+    background-color:  rgb(71, 71, 105);
+    height: 150px;
+    display: flexbox;
+    padding: 49px;
+    color: whitesmoke;
+}
+
